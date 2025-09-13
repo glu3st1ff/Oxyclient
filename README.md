@@ -10,6 +10,8 @@
 
 **Oxy** is a **general-purpose** Minecraft client designed to make convenient tasks **easy** and **satisfying**.
 
+# Get Oxy from Oxyclient.dll in main branch
+
 Press `Delete key` to open or close Oxyclient. For the best experience, a 1080p monitor or above is recommended!
 
 # Features
@@ -27,3 +29,4 @@ Press `Delete key` to open or close Oxyclient. For the best experience, a 1080p 
 -I recommend the this Injectr: "Fate-Injector" from "Fligger" its really good and easy to use.
 
 Get Fate injector: https://github.com/fligger/FateInjector/releases/tag/1.0
+
