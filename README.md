@@ -2,7 +2,7 @@
 <div align="center">A free Minecraft utility ghost injectable client</div>
 <br>
 <div align="center">
-	<img src="<img width="1280" height="720" alt="image" src="https://github.com/glu3st1ff/Oxyclient/blob/main/image.png" />
+	<img src="https://github.com/glu3st1ff/Oxyclient/blob/main/image.png" />
 </div>
 <div>&nbsp;</div>
 
