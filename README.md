@@ -2,8 +2,7 @@
 <div align="center">A free Minecraft utility ghost injectable client</div>
 <br>
 <div align="center">
-	<img src="<img width="1280" height="720" alt="image" src="https://github.com/user-attachments/assets/042684cc-e10f-4cb2-ab71-a8c5221ac1e9" />
-" alt="ESLint Status" /></a>
+	<img src="<img width="1280" height="720" alt="image" src="https://github.com/glu3st1ff/Oxyclient/blob/main/image.png" />
 </div>
 <div>&nbsp;</div>
 
